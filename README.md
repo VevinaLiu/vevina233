@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vevina
 - 👀 I’m interested in Python, Excel VBA, Power BI and SQL 
 - 🌱 I’m currently learning web development and BI reporting
-- 💞️ I’m looking to collaborate on a mobile game project
+- 💞️ I’m currently working on a mobile game project
 - 📫 How to reach me ...
 
 <!---
